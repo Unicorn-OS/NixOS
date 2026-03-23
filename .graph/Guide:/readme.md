@@ -1,0 +1,1 @@
+- [NixOS Review: The Most Powerful Linux Distro in 2026?](https://youtu.be/GrOmDlM_28Y)
